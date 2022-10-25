@@ -1,0 +1,104 @@
+README.md
+
+Integrative analysis of transcriptome and epigenome across rat tissues and in response to exercise training
+
+Differential gene expression, chromatin accessibility, and methylation pipelines and codes for PLIER analysis used in the study.
+
+Manuscript on BioRxiv:
+
+MoTrPAC website: https://motrpac.org
+
+MoTrPAC Study Group manuscript: https://www.biorxiv.org/content/10.1101/2022.09.21.508770v2
+
+MoTrPAC data and pipelines: 
+https://motrpac-data.org/
+https://motrpac.github.io/MotrpacRatTraining6mo/
+https://motrpac.github.io/MotrpacRatTraining6moData/
+https://github.com/MoTrPAC/motrpac-rna-seq-pipeline 
+https://github.com/MoTrPAC/motrpac-atac-seq-pipeline 
+https://github.com/MoTrPAC/motrpac rrbs-pipeline
+
+
+Codes used in the study
+
+Tissue_DEGs.R : Differential gene expression analysis across tissues using Deseq2
+
+EET_DEGs.R : Exercise regauted gene expression analysis
+
+EET_DEGs_across_tissues.R : Exercise regulated gene expression analysis across tissues
+
+Tissue_DMRs.R : Differential methylation analysis using RnBeads 
+
+Tissue_DARs.R : Differential chromatin accessibility analysis using DiffBind
+
+PLIER.R : 
+
+
+Data used in the study are deposited in Zenodo (https://zenodo.org/deposit/7199920#)
+
+Type			    Assay	Tissue		    Object					           Size (MiB)	
+
+Differential 		ATAC	SKM_vs_BAT	    ATAC_analyzed_SKM_BAT			        680	
+analysis results
+
+Differential 		ATAC	SKM_vs_Heart	ATAC_analyzed_SKM_Heart			       1100	
+analysis results
+
+Differential 		ATAC	SKM_vs_Hippoc	ATAC_analyzed_SKM_Hippoc		        739	
+analysis results
+
+Differential 		ATAC	SKM_vs_Kidney	ATAC_analyzed_SKM_Kidney		        717	
+analysis results
+
+Differential 		ATAC	SKM_vs_Liver	ATAC_analyzed_SKM_Liver			        739	
+analysis results
+
+Differential 		ATAC	SKM_vs_Lung	    ATAC_analyzed_SKM_Lung			        711	analysis results
+
+Differential 		ATAC	SKM_vs_WAT	    ATAC_anlayzed_SKM_WAT			        712	
+analysis results
+
+Differential 		RRBS	SKM_vs_BAT	    rnbSet_SKM_vs_BAT_unnormalized.zip* 	207
+analysis results
+
+Differential 		RRBS	SKM_vs_Heart	rnbSet_SKM_vs_Heart_unnormalized.zip*	198
+analysis results
+
+Differential 		RRBS	SKM_vs_Hippoc	rnbSet_SKM_vs_Hippoc_unnormalized.zip* 	198
+analysis results
+
+Differential 		RRBS	SKM_vs_Kidney	rnbSet_SKM_vs_Kidney_unnormalized.zip*	198	
+analysis results
+
+Differential 		RRBS	SKM_vs_Liver	rnbSet_SKM_vs_Liver_unnormalized.zip* 	198
+analysis results
+
+Differential 		RRBS	SKM_vs_Lung	    rnbSet_SKM_vs_Lung_unnormalized.zip* 	202
+analysis results
+
+Differential 		RRBS	SKM_vs_WAT	    rnbSet_SKM_vs_WAT_unnormalized.zip*  	200	
+analysis results
+
+Differential 		RNA	    SKM_vs_BAT	
+analysis results
+
+Differential 		RNA	    SKM_vs_Heart		
+analysis results
+
+Differential 		RNA	    SKM_vs_Hippoc		
+analysis results
+
+Differential 		RNA	    SKM_vs_Kidney		
+analysis results
+
+Differential 		RNA	    SKM_vs_Liver		
+analysis results
+
+Differential 		RNA	    SKM_vs_Lung		
+analysis results
+
+Differential 		RNA	    SKM_vs_WAT		
+analysis results
+
+* Do not unzip the files. Load the .zip folder to RnBeads for analysis
+
