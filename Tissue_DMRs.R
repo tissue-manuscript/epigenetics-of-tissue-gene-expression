@@ -2,7 +2,7 @@ library(RnBeads)
 
 parallel.setup(20)
 
-rns <- load.rnb.set(path="/home/nairv/Downloads/rnbSet_unnormalized.zip")
+rns <- load.rnb.set(path="rnbSet_unnormalized.zip")
 rnb.set <- rns
 report.dir <- "test_output"
 
