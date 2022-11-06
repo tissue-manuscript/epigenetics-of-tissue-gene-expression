@@ -29,7 +29,7 @@ EET_DEGs_across_tissues.R : Exercise regulated gene expression analysis across t
 
 Tissue_DMRs.R : Differential methylation analysis using RnBeads 
 
-Tissue_DARs.R : Differential chromatin accessibility analysis using DiffBind
+Tissue_DARs_counted.R : Differential chromatin accessibility analysis using DiffBind
 
 PLIER.R : 
 
