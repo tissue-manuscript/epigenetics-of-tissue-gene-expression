@@ -38,19 +38,19 @@ Data used in the study are deposited in Zenodo (https://zenodo.org/deposit/71999
 
 Type                    			    Assay   Tissue	  	    Object					                Size (MiB)	
 
-  Differential_analysis_results 		ATAC	  SKM_vs_BAT	  ATAC_analyzed_SKM_BAT			              680	
+  Differential_analysis_results 		ATAC	  SKM_vs_BAT	  ATAC_counted_SKM_BAT			              680	
 
-Differential_analysis_results	  	ATAC	  SKM_vs_Heart	  ATAC_analyzed_SKM_Heart			           1100	
+Differential_analysis_results	  	ATAC	  SKM_vs_Heart	  ATAC_counted_SKM_Heart			           1100	
 
-Differential_analysis_results 		ATAC	  SKM_vs_Hippoc	  ATAC_analyzed_SKM_Hippoc		            739	
+Differential_analysis_results 		ATAC	  SKM_vs_Hippoc	  ATAC_counted_SKM_Hippoc		            739	
 
-Differential_analysis_results 		ATAC	  SKM_vs_Kidney	  ATAC_analyzed_SKM_Kidney		            717	
+Differential_analysis_results 		ATAC	  SKM_vs_Kidney	  ATAC_counted_SKM_Kidney		            717	
 
-Differential_analysis_results 		ATAC	  SKM_vs_Liver  	ATAC_analyzed_SKM_Liver			            739	
+Differential_analysis_results 		ATAC	  SKM_vs_Liver  	ATAC_counted_SKM_Liver			            739	
 
-Differential_analysis_results 		ATAC	  SKM_vs_Lung	    ATAC_analyzed_SKM_Lung  		            711
+Differential_analysis_results 		ATAC	  SKM_vs_Lung	    ATAC_counted_SKM_Lung  		            711
 
-Differential_analysis_results 		ATAC	  SKM_vs_WAT	    ATAC_anlayzed_SKM_WAT			              712	
+Differential_analysis_results 		ATAC	  SKM_vs_WAT	    ATAC_counted_SKM_WAT			              712	
 
 Differential_analysis_results 		RRBS	  SKM_vs_BAT	    rnbSet_SKM_vs_BAT_unnormalized.zip* 	  207
 
