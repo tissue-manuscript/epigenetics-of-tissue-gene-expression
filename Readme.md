@@ -52,6 +52,10 @@ Differential_analysis_results 		ATAC	  SKM_vs_Lung	    ATAC_counted_SKM_Lung.RDa
 
 Differential_analysis_results 		ATAC	  SKM_vs_WAT	    ATAC_counted_SKM_WAT.RData			        712	
 
+Differential_analysis_results		  RNA	    SKM_vs_7tissues     RNA_SKM_vs_7tissues.RData           1.5	
+
+Differential_analysis_results		  RNA	    1tissue_vs_7tissues RNA_ERGs_8tissues.RData             0.42
+
 Differential_analysis_results 		RRBS	  SKM_vs_BAT	    rnbSet_SKM_vs_BAT_unnormalized.zip* 	  207
 
 Differential_analysis_results		  RRBS	  SKM_vs_Heart	  rnbSet_SKM_vs_Heart_unnormalized.zip*	  198
@@ -65,10 +69,6 @@ Differential_analysis_results 		RRBS	  SKM_vs_Liver	  rnbSet_SKM_vs_Liver_unnorm
 Differential_analysis_results 		RRBS	  SKM_vs_Lung	    rnbSet_SKM_vs_Lung_unnormalized.zip* 	  202
 
 Differential_analysis_results 		RRBS	  SKM_vs_WAT	    rnbSet_SKM_vs_WAT_unnormalized.zip*  	  200	
-
-Differential_analysis_results		  RNA	    SKM_vs_7tissues     RNA_SKM_vs_7tissues.RData           1.5	
-
-Differential_analysis_results		  RNA	    1tissue_vs_7tissues RNA_ERGs_8tissues.RData             0.42
 
 * Do not unzip the files. Load the .zip folder to RnBeads for analysis
 
