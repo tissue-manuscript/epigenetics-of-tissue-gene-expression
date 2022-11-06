@@ -21,11 +21,11 @@ https://github.com/MoTrPAC/motrpac rrbs-pipeline
 
 Codes used in the study
 
-Tissue_DEGs.R : Differential gene expression analysis across tissues using Deseq2
+Tissue_DEGs_dds_dataset.R : Differential gene expression analysis across tissues using Deseq2
 
-EET_DEGs.R : Exercise regauted gene expression analysis
+EET_DEGs.R : Analysis of exercise regulated genes across tissues
 
-EET_DEGs_8tissues.R : Exercise regulated gene expression analysis across tissues
+EET_DEGs_8tissues_dds_dataset.R : Differential expression analysis of exercise regulated genes across tissues
 
 Tissue_DMRs.R : Differential methylation analysis using RnBeads 
 
@@ -66,7 +66,9 @@ Differential_analysis_results 		RRBS	  SKM_vs_Lung	    rnbSet_SKM_vs_Lung_unnorm
 
 Differential_analysis_results 		RRBS	  SKM_vs_WAT	    rnbSet_SKM_vs_WAT_unnormalized.zip*  	  200	
 
-Differential_analysis_results		  RNA	    SKM_vs_7tissues RNA_SKM_vs_7tissues.RData               1.5		
+Differential_analysis_results		  RNA	    SKM_vs_7tissues     RNA_SKM_vs_7tissues.RData           1.5	
+
+Differential_analysis_results		  RNA	    1tissue_vs_7tissues RNA_ERGs_8tissues.RData             0.42
 
 * Do not unzip the files. Load the .zip folder to RnBeads for analysis
 
