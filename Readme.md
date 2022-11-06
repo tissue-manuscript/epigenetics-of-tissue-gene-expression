@@ -25,7 +25,7 @@ Tissue_DEGs.R : Differential gene expression analysis across tissues using Deseq
 
 EET_DEGs.R : Exercise regauted gene expression analysis
 
-EET_DEGs_across_tissues.R : Exercise regulated gene expression analysis across tissues
+EET_DEGs_8tissues.R : Exercise regulated gene expression analysis across tissues
 
 Tissue_DMRs.R : Differential methylation analysis using RnBeads 
 
@@ -68,17 +68,7 @@ Differential_analysis_results 		RRBS	  SKM_vs_WAT	    rnbSet_SKM_vs_WAT_unnormal
 
 Differential_analysis_results 		RNA	    SKM_vs_BAT	
 
-Differential_analysis_results		  RNA	    SKM_vs_Heart		
-
-Differential_analysis_results		  RNA	    SKM_vs_Hippoc		
-
-Differential_analysis_results 		RNA	    SKM_vs_Kidney		
-
-Differential_analysis_results		  RNA	    SKM_vs_Liver		
-
-Differential_analysis_results		  RNA	    SKM_vs_Lung		
-
-Differential_analysis_results 		RNA	    SKM_vs_WAT		
+Differential_analysis_results		  RNA	    SKM_vs_7tissues		
 
 * Do not unzip the files. Load the .zip folder to RnBeads for analysis
 
