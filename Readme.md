@@ -31,6 +31,10 @@ Tissue_DMRs.R : Differential methylation analysis using RnBeads
 
 Tissue_DARs_counted.R : Differential chromatin accessibility analysis using DiffBind
 
+PCA_RNA-seq_8tissues_MF.py : Python codes used for generating the PCA shown in Fig. 1
+
+DOT_plots.py : Python codes used for generating dot plots
+
 PLIER.R : 
 
 
@@ -38,7 +42,7 @@ Data used in the study are deposited in Zenodo (https://zenodo.org/deposit/71999
 
 Type                    			    Assay   Tissue	  	    Object					                Size (MiB)	
 
-  Differential_analysis_results 		ATAC	  SKM_vs_BAT	  ATAC_counted_SKM_BAT.RData              680	
+Differential_analysis_results 		ATAC	  SKM_vs_BAT	  ATAC_counted_SKM_BAT.RData              680	
 
 Differential_analysis_results	  	ATAC	  SKM_vs_Heart	  ATAC_counted_SKM_Heart.RData			     1100	
 
