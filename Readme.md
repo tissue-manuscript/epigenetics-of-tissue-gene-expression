@@ -21,7 +21,7 @@ https://github.com/MoTrPAC/motrpac-rna-seq-pipeline
 
 https://github.com/MoTrPAC/motrpac-atac-seq-pipeline 
 
-https://github.com/MoTrPAC/motrpac rrbs-pipeline
+https://github.com/MoTrPAC/motrpac-rrbs-pipeline
 
 
 Codes used in the study
