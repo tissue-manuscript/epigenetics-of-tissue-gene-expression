@@ -39,6 +39,7 @@ PLIER.R :
 
 
 Data used in the study are deposited in Zenodo (https://zenodo.org/deposit/7199920#)
+Software used for methylation/OCR analysis and processed methylation data used for LV analysis are deposuted in figshare (https://figshare.com/projects/MoTrPAC_PASS1B_Methylation/168794) 
 
 Type                    			    Assay   Tissue	  	    Object					                Size (MiB)	
 
