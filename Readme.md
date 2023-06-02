@@ -12,10 +12,15 @@ MoTrPAC Study Group manuscript: https://www.biorxiv.org/content/10.1101/2022.09.
 
 MoTrPAC data and pipelines: 
 https://motrpac-data.org/
+
 https://motrpac.github.io/MotrpacRatTraining6mo/
+
 https://motrpac.github.io/MotrpacRatTraining6moData/
+
 https://github.com/MoTrPAC/motrpac-rna-seq-pipeline 
+
 https://github.com/MoTrPAC/motrpac-atac-seq-pipeline 
+
 https://github.com/MoTrPAC/motrpac rrbs-pipeline
 
 
