@@ -79,5 +79,37 @@ Differential_analysis_results 		RRBS	  SKM_vs_Lung	    rnbSet_SKM_vs_Lung_unnorm
 
 Differential_analysis_results 		RRBS	  SKM_vs_WAT	    rnbSet_SKM_vs_WAT_unnormalized.zip*  	  200	
 
+Differential_analysis_results	    RRBS	  BAT_F_Con_vs_Ex		  rnbSet_BAT_F_Con_Ex_unnormalized.zip*		  93
+
+Differential_analysis_results	    RRBS	  BAT_M_Con_vs_Ex	    rnbSet_BAT_M_Con_Ex_unnormalized.zip*		  110
+
+Differential_analysis_results	    RRBS	  Heart_F_Con_vs_Ex	  rnbSet_Heart_F_Con_Ex_unnormalized.zip*		95
+
+Differential_analysis_results	    RRBS	  Heart_M_Con_vs_Ex	  rnbSet_Heart_M_Con_Ex_unnormalized.zip*		95
+
+Differential_analysis_results	    RRBS	  Hippoc_F_Con_vs_Ex	rnbSet_Hippoc_F_Con_Ex_unnormalized.zip*	89
+
+Differential_analysis_results	    RRBS	  Hippoc_M_Con_vs_Ex	rnbSet_Hippoc_M_Con_Ex_unnormalized.zip*	106
+
+Differential_analysis_results	    RRBS	  Kidney_F_Con_vs_Ex	rnbSet_Kidney_F_Con_Ex_unnormalized.zip*	96
+
+Differential_analysis_results	    RRBS	  Kidney_M_Con_vs_Ex	rnbSet_Kidney_M_Con_Ex_unnormalized.zip*	95
+
+Differential_analysis_results	    RRBS	  Liver_F_Con_vs_Ex	  rnbSet_Liver_F_Con_Ex_unnormalized.zip*		95
+
+Differential_analysis_results	    RRBS	  Liver_M_Con_vs_Ex	  rnbSet_Liver_M_Con_Ex_unnormalized.zip*		92
+
+Differential_analysis_results	    RRBS	  Lung_F_Con_vs_Ex	  rnbSet_Lung_F_Con_Ex_unnormalized.zip*		99
+
+Differential_analysis_results	    RRBS	  Lung_M_Con_vs_Ex	  rnbSet_Lung_M_Con_Ex_unnormalized.zip*		101
+
+Differential_analysis_results	    RRBS	  SKM-GN_F_Con_vs_Ex	rnbSet_SKM-GN_F_Con_Ex_unnormalized.zip*	103
+
+Differential_analysis_results	    RRBS	  SKM-GN_M_Con_vs_Ex	rnbSet_SKM-GN_M_Con_Ex_unnormalized.zip*	97
+
+Differential_analysis_results	    RRBS	  WAT_F_Con_vs_Ex		  rnbSet_WAT_F_Con_Ex_unnormalized.zip*		  96
+
+Differential_analysis_results	    RRBS	  WAT_M_Con_vs_Ex		  rnbSet_WAT-GN_M_Con_Ex_unnormalized.zip*	92
+
 * Do not unzip the files. Load the .zip folder to RnBeads for analysis
 
