@@ -45,7 +45,7 @@ PLIER.R : https://figshare.com/articles/software/Analysis_scripts/23280182
 Data used in the study are deposited in Zenodo (https://zenodo.org/deposit/7199920#)
 Software used for methylation/OCR analysis and processed methylation data used for LV analysis are deposuted in figshare (https://figshare.com/projects/MoTrPAC_PASS1B_Methylation/168794) 
 
-Type                    			    Assay   Tissue	  	    Object					                Size (MiB)	
+Type                    			    Assay   Tissue	  	    Object (available at zenodo)      Size (MiB)	
 
 Differential_analysis_results 		ATAC	  SKM_vs_BAT	  ATAC_counted_SKM_BAT.RData              680	
 
