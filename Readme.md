@@ -40,7 +40,7 @@ PCA_RNA-seq_8tissues_MF.py : Python codes used for generating the PCA shown in F
 
 DOT_plots.py : Python codes used for generating dot plots
 
-PLIER.R : 
+PLIER.R : https://figshare.com/projects/MoTrPAC_PASS1B_Methylation/168794
 
 
 Data used in the study are deposited in Zenodo (https://zenodo.org/deposit/7199920#)
