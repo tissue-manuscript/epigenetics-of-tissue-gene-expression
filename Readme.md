@@ -1,6 +1,6 @@
 README.md
 
-Integrative analysis of transcriptome and epigenome across rat tissues and in response to exercise training
+Molecular adaptations in response to exercise training are associated with tissue-specific transcriptomic and epigenomic signatures
 
 Differential gene expression, chromatin accessibility, and methylation pipelines and codes for PLIER analysis used in the study.
 
