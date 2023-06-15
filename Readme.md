@@ -4,8 +4,6 @@ Molecular adaptations in response to exercise training are associated with tissu
 
 Differential gene expression, chromatin accessibility, and methylation pipelines and codes for PLIER analysis used in the study.
 
-Manuscript on BioRxiv:
-
 MoTrPAC website: https://motrpac.org
 
 MoTrPAC Study Group manuscript: https://www.biorxiv.org/content/10.1101/2022.09.21.508770v2
