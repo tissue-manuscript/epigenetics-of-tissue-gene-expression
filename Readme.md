@@ -7,7 +7,8 @@ Differential gene expression, chromatin accessibility, and methylation pipelines
 MoTrPAC website: https://motrpac.org
 
 MoTrPAC Study Group manuscript: 
-https://www.biorxiv.org/content/10.1101/2022.09.21.508770v2/
+https://www.biorxiv.org/content/10.1101/2022.09.21.508770v2
+
 https://www.nature.com/articles/s41586-023-06877-w/
 
 MoTrPAC data and pipelines: 
